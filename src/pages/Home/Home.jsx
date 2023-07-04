@@ -29,7 +29,7 @@ const Home = () => {
   return (
     <HomeContainer>
       <div>
-        <img src='../public/images/evie-s-bSVGnUCk4tk-unsplash.jpg' alt='background' />
+        <img src='/images/home_background.jpg' alt='background' />
       </div>
     </HomeContainer>
   )
